@@ -12,15 +12,15 @@
 > Ini adalah kumpulan script Python yang dibagi oleh [topics](#table-of-contents) dan mengandung
  contoh kode dengan penjelasan, kasus penggunaan yang berbeda, dan tautan ke bacaan lebih lanjut.
 
-> _Beberapa bahasa yang di dukung :_ [_Português_](README.pt-BR.md), [_Español_](README.es-ES.md), [_Traditional Chinese_](README.zh-TW.md).
+> _Beberapa bahasa yang di dukung :_ [_Português_](README.pt-BR.md), [_Español_](README.es-ES.md), [_English_](red.d) , [_Traditional Chinese_](README.zh-TW.md).
 
 Ini adalah **playground** karena Anda dapat mengubah atau menambahkan kode untuk melihat cara kerjanya
-and [test it out](#testing-the-code) using assertions. It also allows you 
-to [lint the code](#linting-the-code) you've wrote and check if it fits to Python code style guide.
-Altogether it might make your learning process to be more interactive and it might help you to keep 
-code quality pretty high from very beginning.
+dan [mengujinya](#testing-the-code) menggunakan assertions. Ini juga memungkinkan anda
+untuk [lint kodenya](#linting-the-code) Anda telah menulis dan memeriksa apakah itu cocok dengan panduan gaya kode Python.
+Secara keseluruhan mungkin membuat proses belajar Anda menjadi lebih interaktif dan mungkin membantu Anda untuk tetap
+kualitas kode cukup tinggi dari awal.
 
-It is a **cheatsheet** because you may get back to these code examples once you want to recap the 
+Ini adalah sebuah **cheatsheet** because you may get back to these code examples once you want to recap the 
 syntax of [standard Python statements and constructions](#table-of-contents). Also because the 
 code is full of assertions you'll be able to see expected functions/statements output right away
 without launching them.
