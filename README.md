@@ -9,12 +9,12 @@
 
 [![Build Status](https://travis-ci.org/trekhleb/learn-python.svg?branch=master)](https://travis-ci.org/trekhleb/learn-python)
 
-> Ini adalah kumpulan skript Python yang dibagi oleh [topics](#table-of-contents) dan mengandung
+> Ini adalah kumpulan script Python yang dibagi oleh [topics](#table-of-contents) dan mengandung
  contoh kode dengan penjelasan, kasus penggunaan yang berbeda, dan tautan ke bacaan lebih lanjut.
 
-> _Read this in:_ [_Português_](README.pt-BR.md), [_Español_](README.es-ES.md), [_Traditional Chinese_](README.zh-TW.md).
+> _Beberapa bahasa yang di dukung :_ [_Português_](README.pt-BR.md), [_Español_](README.es-ES.md), [_Traditional Chinese_](README.zh-TW.md).
 
-It is a **playground** because you may change or add the code to see how it works 
+Ini adalah **playground** karena Anda dapat mengubah atau menambahkan kode untuk melihat cara kerjanya
 and [test it out](#testing-the-code) using assertions. It also allows you 
 to [lint the code](#linting-the-code) you've wrote and check if it fits to Python code style guide.
 Altogether it might make your learning process to be more interactive and it might help you to keep 
